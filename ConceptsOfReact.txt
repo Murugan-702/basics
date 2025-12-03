@@ -1,0 +1,53 @@
+ 
+ (1)  React 
+
+React is a JavaScript library used for building user interfaces, mainly for creating Single Page Applications (SPA).
+It allows developers to build complex UIs using small, reusable pieces called components.
+
+
+ (2)  Functions (Functional Components) 
+
+In React, a function or functional component is a reusable block of code that returns UI elements.
+ 
+ (3)  JSX  
+
+JSX stands for JavaScript XML.
+It is an extensible syntax that allows writing HTML-like code inside JavaScript.
+
+
+ (4) TSX  
+
+TSX stands for TypeScript XML.
+It is JSX with TypeScript support, allowing type-safe React applications.
+
+
+ (5)   How to Create a React App (Vite)   
+
+     npm create vite@latest 
+
+     TypeScript
+
+(6)  Creation of Function
+       
+
+       const HomePage = () =>{
+              return(
+                 <> Home Page </>
+              )
+       }
+
+(7) What are Props?
+
+Props (properties) are inputs passed from a parent component to a child component.
+They are used to transfer data and configure components dynamically.
+
+
+(8) Prop Interface (TypeScript / TSX)
+
+A Prop Interface is used to define the expected data structure of props in TypeScript.
+This ensures type safety and improves auto-suggestion in editors.
+
+
+
+
+
