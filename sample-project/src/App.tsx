@@ -1,9 +1,12 @@
 import HomePage from './components/HomePage'
+import HomeLayout from './layout/HomeLayout'
 
 const App = () => {
   return (
     <>
-    <HomePage/>
+    <HomeLayout>
+      <HomePage/>
+    </HomeLayout>
     </>
   )
 }

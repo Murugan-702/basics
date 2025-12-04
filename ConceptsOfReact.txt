@@ -47,6 +47,29 @@ They are used to transfer data and configure components dynamically.
 A Prop Interface is used to define the expected data structure of props in TypeScript.
 This ensures type safety and improves auto-suggestion in editors.
 
+(9)  Props Drilling 
+  Props Drilling happens when you pass props through multiple nested components just to reach a deeply nested child, 
+  even if intermediate components don’t use the data.
+
+(10)  Props Spreading
+      Props spreading allows you to pass all props of an object at 
+once using the spread operator (...).
+
+(11)  Avatar Component
+
+An Avatar Component is a small UI element used to display a
+ user’s profile picture, initials, or icon. It is commonly used in social media apps, chat apps, dashboards, and user profiles.
+
+ (12) Custom Component and asChild 
+
+ (13) Component Composition
+ Component Composition is a React design pattern where multiple smaller components are combined together to build a bigger or more complex UI component.
+
+    Instead of writing one large component, React encourages breaking UI into reusable, independent components and then composing them together.
+
+    (i) component composition with children
+
+
 
 
 
