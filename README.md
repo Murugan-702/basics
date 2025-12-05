@@ -3,3 +3,16 @@
 
 Day 1 :
     React , Functional Components , Props Drilling , Props Interface , Props Spreading
+
+Day 2:
+    Component Composition , Custom Component , Avatar , Layout Architecture 
+
+Day 3: 
+      Hooks :  useState (Forms) 
+        React navigation (useNavigate())
+
+        react-router-dom
+
+
+
+

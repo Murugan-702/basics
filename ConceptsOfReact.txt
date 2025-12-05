@@ -70,6 +70,14 @@ An Avatar Component is a small UI element used to display a
     (i) component composition with children
 
 
+(14) React Navigation (useNavigate)
+     React Router was used to route  the page without reload 
+     npm i react-router-dom
+
+(15) useState 
+       used for state management
+
+
 
 
 
