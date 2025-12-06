@@ -77,6 +77,9 @@ An Avatar Component is a small UI element used to display a
 (15) useState 
        used for state management
 
+(16) useEffect 
+      useEffect is a React Hook that lets you run side effects in a functional component.
+
 
 
 

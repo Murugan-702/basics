@@ -1,8 +1,9 @@
 
 
-const CustomButton = ({text}:{text:string}) => {
+const CustomButton = ({text,onClick}:{text:string,onClick:React.MouseEventHandler<HTMLButtonElement> | undefined
+}) => {
   return (
-    <button className="btn-custom">
+    <button onClick={onClick} className="btn-custom">
           {text}
     </button>
   )
